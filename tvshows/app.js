@@ -62,27 +62,10 @@ search.addEventListener("click", () => {
 
                     item.value = ""
 
-
-
-
                 }
-
-                // let btns = document.querySelectorAll("#btn2");
-                // console.log(btns)
-
-                // btns.addEventListener("click", () => {
-                //     console.log("helloo")
-                // })
 
 
             }
-
-            // let btns = document.querySelectorAll("#btn2");
-            // console.log(btns)
-
-            // btns.addEventListener("click", () => {
-            //     console.log("helloo")
-            // })
 
         })
 });
