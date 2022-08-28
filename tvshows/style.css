@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+h2 {
+    color: orange;
+}
+
+.box1 {
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    line-height: 50px;
+}
+
+#search {
+    cursor: pointer;
+}
+
+input {
+    width: 300px;
+    background-color: white;
+    padding: 4px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+
+img {
+    width: 150px;
+    height: 200px;
+}
+
+.biger {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    padding: 2px;
+}
+
+.all {
+    width: 160px;
+    color: white;
+    padding: 10px;
+}
+
+h4 {
+    margin-top: 10px;
+    line-height: 9px;
+    font-size: 12px;
+}
+
+#btn2 {
+    background-color: orange;
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
